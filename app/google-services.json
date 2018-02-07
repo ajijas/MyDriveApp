@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "850694411085",
+    "firebase_url": "https://materiallogin-37bd7.firebaseio.com",
+    "project_id": "materiallogin-37bd7",
+    "storage_bucket": "materiallogin-37bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850694411085:android:831cdd281babc2b9",
+        "android_client_info": {
+          "package_name": "android.mobile.mydriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850694411085-lgkps392n2fk1vmq1js3um7ashgujhfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.mobile.mydriveapp",
+            "certificate_hash": "5a17879cb2ecd0fab4ad2f5b82153c19a178d764"
+          }
+        },
+        {
+          "client_id": "850694411085-gcsg8ppj2ft3lm5me04ld8knc8l0pi72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeDE3Fejq-Tl7X0wHA7mLFnTb93PfJOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850694411085-gcsg8ppj2ft3lm5me04ld8knc8l0pi72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
